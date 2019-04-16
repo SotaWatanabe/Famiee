@@ -3,20 +3,25 @@
 
 <head>
     <meta charset="utf-8" />
-    <link rel="apple-touch-icon" sizes="76x76" href="assets/img/apple-icon.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon.png">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon.png">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#"></head>
     <title>Famiee</title>
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://famiee.com/assets/img/sns.jpg">
+
     <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
     <meta name="description" content="「famiee」プロジェクトとは、地方自治体が発行するパートナーシップ証明書に相当する証明書を、ブロックチェーン技術を用いて民間で発行することを目的としたプロジェクトです。">
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
     <link href="assets/css/gaia.css" rel="stylesheet"/>
     
-    <!--OPG-->
+    <!--OPG Facebook Twitter-->
     <meta property="og:url" content="https://www.famiee.com" />
-    <meta property="og:image" content="https://staked.co.jp/assets/img/family.jpg" />
+    <meta property="fb:app_id" content="1320921668046539" />
+
+    <meta name="twitter:card" content="summarylargeimage" />
+    <meta name="twitter:site" content="@FamieeP" />
 
 
     <!--     Fonts and icons     -->
@@ -26,7 +31,6 @@
 </head>
 
 <body>
-
     <nav class="navbar navbar-default navbar-transparent navbar-fixed-top" color-on-scroll="200">
         <!-- if you want to keep the navbar hidden you can add this class to the navbar "navbar-burger"-->
         <div class="container">
@@ -357,6 +361,52 @@
                                             </div>
                                         </div>
                                     </div>
+
+                                    <div class="col-md-4">
+                                        <div class="card card-member">
+                                            <div class="content">
+                                                <div class="avatar avatar-danger">
+                                                    <img alt="..." class="img-circle" src="assets/img/faces/mai.jpg"/>
+                                                </div>
+                                                <div class="description">
+                                                    <h3 class="title">藤本真衣</h3>
+                                                    <p class="small-text">Miss Bitcoin</p>
+                                                    <p class="description">ブロックチェーン分野における世界的な専門家とも親交が深く、“MissBitcoin”と呼ばれ親しまれている。 CryptoWeeklyの「THE 100 MOST INFLUENTIAL PEOPLE IN CRYPTO」に選出された。 ブロックチェーン業界に特化したPR会社「Gracone」をはじめ、日本初の暗号通貨による寄付サイト「KIZUNA」ブロックチェーン業界に特化した就職・転職支援会社「withB」を立ち上げる。</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-4">
+                                        <div class="card card-member">
+                                            <div class="content">
+                                                <div class="avatar avatar-danger">
+                                                    <img alt="..." class="img-circle" src="assets/img/faces/mai.jpg"/>
+                                                </div>
+                                                <div class="description">
+                                                    <h3 class="title">藤本真衣</h3>
+                                                    <p class="small-text">Miss Bitcoin</p>
+                                                    <p class="description">ブロックチェーン分野における世界的な専門家とも親交が深く、“MissBitcoin”と呼ばれ親しまれている。 CryptoWeeklyの「THE 100 MOST INFLUENTIAL PEOPLE IN CRYPTO」に選出された。 ブロックチェーン業界に特化したPR会社「Gracone」をはじめ、日本初の暗号通貨による寄付サイト「KIZUNA」ブロックチェーン業界に特化した就職・転職支援会社「withB」を立ち上げる。</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-4">
+                                        <div class="card card-member">
+                                            <div class="content">
+                                                <div class="avatar avatar-danger">
+                                                    <img alt="..." class="img-circle" src="assets/img/faces/mai.jpg"/>
+                                                </div>
+                                                <div class="description">
+                                                    <h3 class="title">藤本真衣</h3>
+                                                    <p class="small-text">Miss Bitcoin</p>
+                                                    <p class="description">ブロックチェーン分野における世界的な専門家とも親交が深く、“MissBitcoin”と呼ばれ親しまれている。 CryptoWeeklyの「THE 100 MOST INFLUENTIAL PEOPLE IN CRYPTO」に選出された。 ブロックチェーン業界に特化したPR会社「Gracone」をはじめ、日本初の暗号通貨による寄付サイト「KIZUNA」ブロックチェーン業界に特化した就職・転職支援会社「withB」を立ち上げる。</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
                                 </div>
                             </div>
                         </div>
